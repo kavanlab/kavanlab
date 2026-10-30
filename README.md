@@ -1,11 +1,11 @@
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/Rust-Developer-F07832?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Open-Source-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=kavanlab&label=PROFILE+VIEWS&color=F07832&style=for-the-badge" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=kavanlab&label=PROFILE+VIEWS&color=F07832&style=for-the-badge" /> 
+</p>-->
 <p align="center">
   <img src="./assets/Rust Developer Mountain Terminal Banner.png" width="100%" alt="kavan banner">
-</p> -->
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kavanlab&label=Profile%20Views&color=F07832&style=for-the-badge" alt="Profile Views" />
 </p>
