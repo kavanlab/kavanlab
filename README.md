@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="kavan bannwe">
+  <img src="./assets/Rust Developer Mountain Terminal Banner" width="100%" alt="kavan bannwe">
 </p>
 ## About Me
 
