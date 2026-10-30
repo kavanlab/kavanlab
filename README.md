@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="./assets/profile-banner.png" width="100%" alt="kavan bannwe">
+</p>
 ## About Me
 
 I'm Kavan, Rust Developer in Progress 🦀 . 
-Currently focused on **Rust**, systems programming, and building efficient, reliable, and thoughtfully designed applications.
+Currently focused on **Rust**, 
+Systems programming, and building efficient, reliable, and thoughtfully designed applications.
 
 - 🦀 Learning and building with **Rust**
 - ⚙️ Exploring systems programming and software architecture
