@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./assets/Rust Developer Mountain Terminal Banner.png" width="100%" alt="kavan banner">
 </p>
+
 ## About Me
 
 I'm Kavan, Rust Developer in Progress 🦀 . 
